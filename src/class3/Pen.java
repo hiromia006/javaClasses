@@ -24,7 +24,7 @@ public class Pen {
 //        pen.name = "Echono Dx";
         pen.write();
 
-//        Pen pen1 = new Pen("Echono", "Black");
-//        pen1.write();
+        Pen pen1 = new Pen("Echono", "Black");
+        pen1.write();
     }
 }
